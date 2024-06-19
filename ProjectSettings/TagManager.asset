@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piso
+  - Enemigo
+  - ArbolRoble
+  - MenaBronce
+  - Alerta
+  - Titulo
+  - Descripcion
+  - Tooltip
+  - Precio
+  - EscenarioBatalla
+  - EspacioInventario
+  - EspaciosInventario
+  - EspacioInventarioFondo
+  - EspacioInventarioCantidad
+  - EspacioInventarioCantidadFondo
+  - VentanaInventario
+  - EspacioTienda
+  - EspaciosTienda
+  - EspacioTiendaFondo
+  - EspacioTiendaCantidad
+  - EspacioTiendaCantidadFondo
+  - VentanaTienda
+  - Jugador
+  - VentanaEstadisticas
+  - VentanaGuia
+  - DatoFuerza
+  - DatoAgilidad
+  - DatoInteligencia
+  - DatoVitalidad
+  - DatoTala
+  - DatoMineria
+  - DatoPersonaje
+  - DatoOro
+  - DatoVidaActual
+  - DatoExperiencia
+  - ParedAtras
+  - VentanaEnemigo
+  - CanvasPerdiste
+  - AudioSource
+  - PanelMenu
+  - VentanaCreditos
+  - BarraEventos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
